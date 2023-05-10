@@ -17,7 +17,7 @@ Instructions for installing and running the project:
 3. React
 
 ## Licensing
-This project is licensed under the [MIT License] - see the LICENSE.md file for details.
+This project is licensed under the MIT License, see the LICENSE.md file for details.
 
 ## Contact
 Feel free to contact me for any questions about this project.
