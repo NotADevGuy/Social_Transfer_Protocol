@@ -1,0 +1,43 @@
+body {
+    color: white;
+}
+
+h1, h2, h3, p {
+    color: white
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+.download-link {
+    display: block;
+    font-size: 24px;
+    text-align: center;
+    margin: 40px auto 0;
+    padding: 10px 20px;
+    background-color: #FF0000;
+    color: #FFFFFF;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
+
+.download-link:hover {
+    background-color: #FFFFFF;
+    color: #FF0000;
+    border: 2px solid #FF0000;
+}
