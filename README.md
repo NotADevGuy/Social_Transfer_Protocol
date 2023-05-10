@@ -15,6 +15,7 @@ Instructions for installing and running the project:
 1. JavaScript
 2. Node.js
 3. React
+4. MongoDB
 
 ## Licensing
 This project is licensed under the MIT License, see the LICENSE.md file for details.
